@@ -9,5 +9,5 @@ W., Aldrick, A. A., and Lee, A. A. (2020). The Photoswitch Dataset: A molecular
 machine learning benchmark for the advancement of synthetic chemistry. ChemRxiv,
 doi:10.26434/chemrxiv.12609899.v1. This content is a preprint and has not been peer-reviewed.
 
-- Methods: code for GP modelling and sequential design
-- Results: output and plots
+- Sequential: code for GP modelling and sequential design
+- Plots: for results and illustrations
